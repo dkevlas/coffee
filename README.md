@@ -1,50 +1,17 @@
-# React + TypeScript + Vite
+# Imitación de Sitio Web de Café
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una reproducción visual de un diseño que encontré en Pinterest, inspirado en una página web relacionada con el café. La página cuenta con una interfaz atractiva y moderna, con un enfoque en la experiencia del usuario, destacando elementos visuales relacionados con el café, como imágenes, tipografías y colores cálidos.
 
-Currently, two official plugins are available:
+## Características:
+- Diseño responsivo para adaptarse a diferentes tamaños de pantalla.
+- Interfaz visualmente atractiva con imágenes de alta calidad.
+- Diseño inspirado en una estética de cafetería moderna y acogedora.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas:
+- **React**: Librería para la construcción de la interfaz de usuario.
+- **Vite**: Herramienta de desarrollo rápida y optimizada para proyectos con React.
+- **Tailwind CSS**: Framework de utilidades CSS para diseñar de manera rápida y eficiente.
+- **TypeScript**: Superset de JavaScript para mejorar la seguridad y el desarrollo del código.
+- **HTML5**: Estructura básica de la página.
+- **CSS3**: Estilos visuales adicionales y diseño responsivo.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
