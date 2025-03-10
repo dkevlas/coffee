@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Café Espresso",
+    "descripcion": "Un café fuerte y concentrado",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-coffee/cafe_espresso.webp",
+    "precio": 2.50
+  },
+  {
+    "titulo": "Café Latte",
+    "descripcion": "Café suave con leche espumada",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-coffee/cafe_latte.webp",
+    "precio": 3.00
+  },
+  {
+    "titulo": "Café Americano",
+    "descripcion": "Café negro diluido con agua caliente",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-coffee/cafe_americano.webp",
+    "precio": 2.00
+  },
+  {
+    "titulo": "Café Mocha",
+    "descripcion": "Una mezcla deliciosa de café, chocolate y leche",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-coffee/cafe_mocha.webp",
+    "precio": 3.50
+  }
+]

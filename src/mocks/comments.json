@@ -1,0 +1,65 @@
+[
+  {
+    "Nombre": "Emily Davis",
+    "Ciudad": "Otawa",
+    "Comentario": "¡El pastel de zanahoria es una delicia! Y el café acompaña perfectamente. Perfecto para mi tarde creativa.",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/emily_davis.webp"
+  },
+  {
+    "Nombre": "Min Seo",
+    "Ciudad": "Seúl",
+    "Comentario": "¡Este lugar es mi nuevo favorito! El café capuchino es perfecto, y el pastel de fresa es delicioso. No puedo esperar para regresar.",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/min_seo.webp"
+  },
+  {
+    "Nombre": "Laura Kim",
+    "Ciudad": "Buenos Aires",
+    "Comentario": "¡Me encanta! El café frío es increíble, muy refrescante y perfecto para el calor. Además, el ambiente es tan acogedor.",
+    "Calificacion": 4,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/laura_kim.webp"
+  },
+  {
+    "Nombre": "Marta García",
+    "Ciudad": "Madrid",
+    "Comentario": "Un lugar tan bonito. El pastel de chocolate con menta fue una combinación increíble. ¡Definitivamente quiero regresar!",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/marta_garcia.webp"
+  },
+  {
+    "Nombre": "Carlos López",
+    "Ciudad": "Londres",
+    "Comentario": "El café latte es perfecto. Y el pastel de vainilla es suave y delicioso, ¡una combinación ganadora!",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/carlos_lopez.webp"
+  },
+  {
+    "Nombre": "Luis Gómez",
+    "Ciudad": "Los Ángeles",
+    "Comentario": "El café frío de este lugar es increíble. Y el pastel de oreo, ¡ni hablar! Combinación única, algo muy diferente.",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/luis_gomez.webp"
+  },
+  {
+    "Nombre": "Sofía Rodríguez",
+    "Ciudad": "Nuevo México",
+    "Comentario": "El café espresso tiene el toque perfecto para recargarme de energía. El pastel de frutos rojos es lo más.",
+    "Calificacion": 5,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/sofia_rodriguez.webp"
+  },
+  {
+    "Nombre": "María Fernández",
+    "Ciudad": "Nueva York",
+    "Comentario": "Un espacio tan tranquilo para disfrutar de un buen café. El pastel de manzana y canela es perfecto, ¡totalmente recomendado!",
+    "Calificacion": 4,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/maria_fernandez.webp"
+  },
+  {
+    "Nombre": "Jorge Martínez",
+    "Ciudad": "Los Ángeles",
+    "Comentario": "Me encantó el café con leche, pero lo que más me sorprendió fue el pastel de caramelo. ¡Una experiencia única!",
+    "Calificacion": 4,
+    "Foto": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-clients/jorge_martinez.webp"
+  }
+]

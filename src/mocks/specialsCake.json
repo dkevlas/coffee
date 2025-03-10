@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Tiramisú",
+    "descripcion": "Postre italiano con bizcocho, café, mascarpone y cacao",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-cake/tiramisu.webp",
+    "precio": 4.50
+  },
+  {
+    "titulo": "Cheesecake",
+    "descripcion": "Tarta de queso con base de galleta, suave y cremosa",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-cake/cheesecake.webp",
+    "precio": 5.00
+  },
+  {
+    "titulo": "Brownie de Chocolate",
+    "descripcion": "Pastel denso y húmedo, con chocolate y nueces",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-cake/brownie_de_chocolate.webp",
+    "precio": 3.00
+  },
+  {
+    "titulo": "Helado de Vainilla",
+    "descripcion": "Helado cremoso con sabor dulce de vainilla",
+    "imagen": "https://global-media-repository.s3.us-east-2.amazonaws.com/coffee/img-cake/helado_de_vainilla.webp",
+    "precio": 2.00
+  }
+]
